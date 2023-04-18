@@ -5,7 +5,7 @@ Estudiante de Ingeniería Civil en Informática, apasionado por la cibersegurida
 
 En este blog se encuentra la resolución de varias máquinas en diferentes plataformas, como Hack The Box y Vulnhub.
 
-Puedes ingresar por el sigueinte ![Link](https://grafisec.github.io)
+Puedes ingresar por el sigueinte [Link](https://grafisec.github.io)
 
 
 
