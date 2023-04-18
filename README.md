@@ -1,7 +1,7 @@
 # 💫 About Me:
 Estudiante de Ingeniería Civil en Informática, apasionado por la ciberseguridad ofensiva.<br>Actualmente me encuentro estudiando para certificaciones del área como la ECPPTv2 y la OSCP.
 
-# ![image](https://user-images.githubusercontent.com/108437302/232922767-e2e0f82b-878d-438d-8553-85a75b35dd54.png) Blog de Ciberseguidad:
+# 🔒 Blog de Ciberseguidad:
 
 En este blog se encuentra la resolución de varias máquinas en diferentes plataformas, como Hack The Box y Vulnhub.
 
