@@ -5,9 +5,9 @@ Estudiante de Ingeniería Civil en Informática, apasionado por la cibersegurida
 
 En este blog se encuentra la resolución de varias máquinas en diferentes plataformas, como Hack The Box y Vulnhub.
 
-Puedes ingresar por el sigueinte [Link](https://grafisec.github.io)
+Puedes ingresar por el siguiente [Link](https://grafisec.github.io).
 
-
+Además, he hecho algunos Autopwns para máquinas, se pueden encontrar por [Aquí](https://github.com/grafisec/Autopwns).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirko-babic-velásquez) 
