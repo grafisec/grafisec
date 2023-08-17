@@ -1,4 +1,4 @@
-# About Me:
+# Sobre mí:
 Estudiante de Ingeniería Civil en Informática, apasionado por la ciberseguridad ofensiva.<br>Actualmente me encuentro estudiando para certificaciones del área como la ECPPTv2 y la OSCP.
 
 # 🔒 Blog de Ciberseguidad:
